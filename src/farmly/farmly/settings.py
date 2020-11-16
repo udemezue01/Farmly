@@ -38,6 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # Third Party Apps.
+
+    'graphene_django',
+
     # In-App
     
     'product',

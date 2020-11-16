@@ -33,11 +33,3 @@ class ReviewType(DjangoObjectType):
 	class Meta:
 
 		model = Review
-
-
-
-
-
-class Query(graphene.ObjectType):
-
-	
